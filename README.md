@@ -49,7 +49,7 @@
 ###
 
 <img
-  src="https://raw.githubusercontent.com/Jainut/Jainut/snake-output/snake.svg"
+  src="https://raw.githubusercontent.com/Jainut/Jainut/snake/snake.yml"
   alt="Snake animation"
 />
 
