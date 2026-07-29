@@ -48,7 +48,10 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Jainut/Jainut/snake-output/snake.svg" alt="Snake animation" />
+<img
+  src="https://raw.githubusercontent.com/Jainut/Jainut/snake-output/snake.svg"
+  alt="Snake animation"
+/>
 
 ###
 
