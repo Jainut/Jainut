@@ -41,7 +41,11 @@
 <br clear="both">
 
 <div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/Jainut/Jainut/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img
+  src="https://github-readme-stats.vercel.app/api?username=Jainut&show_icons=true&theme=tokyonight&hide_border=true"
+  height="150"
+  alt="GitHub stats"
+/>
   <img src="https://raw.githubusercontent.com/Jainut/Jainut/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://raw.githubusercontent.com/Jainut/Jainut/activity-graph-output/activity-graph.svg?radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
