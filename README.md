@@ -31,7 +31,7 @@ Industrial tool tracking for my final project. Try lending and returning a tool 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="./assets/c-language.png" height="40" alt="C logo" />
+  <img src="./assets/c-language-transparent.png" height="40" alt="C logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
   <img width="12" />
