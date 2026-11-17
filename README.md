@@ -8,6 +8,12 @@
 
 ###
 
+## Featured project · GOF
+
+Industrial tool tracking for my final project. Try lending and returning a tool with a simulated NFC card, then inspect the API activity and stock changes.
+
+**[Try the interactive demo](https://jainut.github.io/GOF_Interface/)** · [React interface](https://github.com/Jainut/GOF_Interface) · [Express API](https://github.com/Jainut/GOF_API)
+
 <h1 data-importer="text" align="left">About Me</h1>
 
 ###
